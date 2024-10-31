@@ -1,0 +1,72 @@
+/* Main Container */
+.SBZ_con_badge {
+	width:51px;
+	height:52px;
+}
+
+/* Right Alignment */
+.SBZ_con_right {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+/* Left Alignment */
+.SBZ_con_left {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+/* Bottom Alignment */
+.SBZ_con_bottom {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+/* Link Text */
+.SBZ_link_badge {
+	font-family:arial,helvetica;
+	font-size:18px;
+	font-weight:normal;
+	color:#736926;
+	position:relative;
+	width:51px;
+	height:52px;
+	text-align:center;
+	display:block;
+}
+
+/* Number Text */
+.SBZ_num_badge {
+	position:relative;
+	left:-1px;
+	top:8px;
+	width:51px;
+	height:18px;
+	text-align:center;
+	display:block;
+	color:#736926;
+}
+
+/* Diggs Text */
+.SBZ_diggs_badge {
+	font-family:arial,helvetica;
+	font-size:11px;
+	color:#736926;
+	position:relative;
+	width:51px;
+	height:11px;
+	top:10px;
+	left:1px;
+	text-align:center;
+	display:block;
+}
+
+/* Submit Text (For undugg stories) */
+.SBZ_submit_badge {
+	position:relative;
+	left:-1px;
+	top:18px;
+	text-align:center;
+	display:block;
+	font-size:13px;
+}
